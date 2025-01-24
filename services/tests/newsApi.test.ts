@@ -1,4 +1,4 @@
-import { newsApi } from '../utils/newsApi';
+import { newsApi } from '../../utils/newsApi';
 
 global.fetch = jest.fn();
 
